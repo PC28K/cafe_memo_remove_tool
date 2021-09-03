@@ -2,6 +2,7 @@
 네이버카페 메모, 간편게시판에 전체삭제, 선택삭제 기능을 추가합니다.
 
 [![Video Label](http://img.youtube.com/vi/tNRbELTdjbk/0.jpg)](https://www.youtube.com/watch?v=tNRbELTdjbk)
+
 시연영상
 *****
 
