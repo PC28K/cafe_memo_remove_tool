@@ -19,4 +19,5 @@ Chrome 확장이 사용 가능한 대부분 Chromium 브라우저에서 사용�
   - [구글 크롬](https://chrome.google.com/webstore/detail/hogmafibofgfoemppfbpikomgmmpacoo)
   - [네이버 웨일](https://store.whale.naver.com/detail/joedgbcopkhpmcpkejppinmlfgbofihg)
   - [파이어폭스](https://addons.mozilla.org/ko/firefox/addon/%EC%B9%B4%ED%8E%98-%EB%A9%94%EB%AA%A8-%EA%B0%84%ED%8E%B8%EA%B8%80-%EC%82%AD%EC%A0%9C-%EB%8F%84%EA%B5%AC/)
+
  * 호환 확인: Microsoft Edge(크롬 호환)
